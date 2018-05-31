@@ -2,7 +2,9 @@ Here I practice with markdown.
 
 The eighth word in this sentence is **bold**.
 
-I'm going to type "Stella" in italics - *Stella".
+I'm going to type "Stella" in italics - *Stella*.
+
+EDIT - Wait, that didn't work. I see now it's because I ended "Stella" with a quotation mark instead of an asterisk for some reason. I'll fix that now.
 
 *Is this entire sentence in italics?*
 
